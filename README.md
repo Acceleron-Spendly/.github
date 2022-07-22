@@ -1,0 +1,2 @@
+# .github
+Spendly services documentation
