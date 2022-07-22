@@ -1,2 +1,2 @@
-# .github
-Spendly services documentation
+# Spendly - Finance Accounting API services
+Application documentation
